@@ -1,0 +1,1189 @@
+{
+    "form": [
+        {
+            "box": [
+                128,
+                369,
+                630,
+                405
+            ],
+            "text": "Methocarbamol(ACECONTIN)750mg",
+            "label": "medicine_name",
+            "words": [
+                {
+                    "box": [
+                        128,
+                        369,
+                        630,
+                        405
+                    ],
+                    "text": "Methocarbamol(ACECONTIN)750mg"
+                }
+            ],
+            "linking": [],
+            "id": 10
+        },
+        {
+            "box": [
+                128,
+                453,
+                440,
+                488
+            ],
+            "text": "Tenoxicam( Bart)20mg",
+            "label": "medicine_name",
+            "words": [
+                {
+                    "box": [
+                        128,
+                        453,
+                        440,
+                        488
+                    ],
+                    "text": "Tenoxicam( Bart)20mg"
+                }
+            ],
+            "linking": [],
+            "id": 11
+        },
+        {
+            "box": [
+                128,
+                619,
+                595,
+                658
+            ],
+            "text": "Ginkgo biloba(Ginkgo 3000)60mg",
+            "label": "medicine_name",
+            "words": [
+                {
+                    "box": [
+                        128,
+                        619,
+                        595,
+                        658
+                    ],
+                    "text": "Ginkgo biloba(Ginkgo 3000)60mg"
+                }
+            ],
+            "linking": [],
+            "id": 13
+        },
+        {
+            "box": [
+                132,
+                703,
+                501,
+                740
+            ],
+            "text": "Rosuvastatin(LDNIL)10mg",
+            "label": "medicine_name",
+            "words": [
+                {
+                    "box": [
+                        132,
+                        703,
+                        501,
+                        740
+                    ],
+                    "text": "Rosuvastatin(LDNIL)10mg"
+                }
+            ],
+            "linking": [],
+            "id": 14
+        },
+        {
+            "box": [
+                129,
+                786,
+                853,
+                825
+            ],
+            "text": "Acid Acetylsalicylic(Aspirin 81 (Agimexpharm))81mg",
+            "label": "medicine_name",
+            "words": [
+                {
+                    "box": [
+                        129,
+                        786,
+                        853,
+                        825
+                    ],
+                    "text": "Acid Acetylsalicylic(Aspirin 81 (Agimexpharm))81mg"
+                }
+            ],
+            "linking": [],
+            "id": 15
+        },
+        {
+            "box": [
+                129,
+                532,
+                573,
+                574
+            ],
+            "text": "Losartan(PYZACAR 50 mg)50mg",
+            "label": "medicine_name",
+            "words": [
+                {
+                    "box": [
+                        129,
+                        532,
+                        573,
+                        574
+                    ],
+                    "text": "Losartan(PYZACAR 50 mg)50mg"
+                }
+            ],
+            "linking": [],
+            "id": 12
+        },
+        {
+            "box": [
+                535,
+                54,
+                746,
+                99
+            ],
+            "text": "\u0110\u01a0N THU\u1ed0C",
+            "label": "header",
+            "words": [
+                {
+                    "box": [
+                        535,
+                        54,
+                        746,
+                        99
+                    ],
+                    "text": "\u0110\u01a0N THU\u1ed0C"
+                }
+            ],
+            "linking": [],
+            "id": 60
+        },
+        {
+            "box": [
+                55,
+                269,
+                237,
+                307
+            ],
+            "text": "Thu\u1ed1c \u0111i\u1ec1u tr\u1ecb",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        55,
+                        269,
+                        237,
+                        307
+                    ],
+                    "text": "Thu\u1ed1c \u0111i\u1ec1u tr\u1ecb"
+                }
+            ],
+            "linking": [],
+            "id": 9
+        },
+        {
+            "box": [
+                55,
+                184,
+                164,
+                215
+            ],
+            "text": "H\u1ecd t\u00ean",
+            "label": "patient_name_key",
+            "words": [
+                {
+                    "box": [
+                        55,
+                        184,
+                        164,
+                        215
+                    ],
+                    "text": "H\u1ecd t\u00ean"
+                }
+            ],
+            "linking": [
+                [
+                    0,
+                    1
+                ]
+            ],
+            "id": 0
+        },
+        {
+            "box": [
+                173,
+                184,
+                364,
+                217
+            ],
+            "text": "TR\u1ea6N TH\u1eca C",
+            "label": "patient_name_value",
+            "words": [
+                {
+                    "box": [
+                        173,
+                        184,
+                        364,
+                        217
+                    ],
+                    "text": "TR\u1ea6N TH\u1eca C"
+                }
+            ],
+            "linking": [
+                [
+                    0,
+                    1
+                ]
+            ],
+            "id": 1
+        },
+        {
+            "box": [
+                512,
+                180,
+                593,
+                213
+            ],
+            "text": "Tu\u1ed5i",
+            "label": "patient_age_key",
+            "words": [
+                {
+                    "box": [
+                        512,
+                        180,
+                        593,
+                        213
+                    ],
+                    "text": "Tu\u1ed5i"
+                }
+            ],
+            "linking": [
+                [
+                    2,
+                    3
+                ]
+            ],
+            "id": 2
+        },
+        {
+            "box": [
+                609,
+                181,
+                648,
+                213
+            ],
+            "text": "69",
+            "label": "patient_age_value",
+            "words": [
+                {
+                    "box": [
+                        609,
+                        181,
+                        648,
+                        213
+                    ],
+                    "text": "69"
+                }
+            ],
+            "linking": [
+                [
+                    2,
+                    3
+                ]
+            ],
+            "id": 3
+        },
+        {
+            "box": [
+                683,
+                180,
+                808,
+                217
+            ],
+            "text": "C\u00e2n N\u1eb7ng",
+            "label": "patient_weight_key",
+            "words": [
+                {
+                    "box": [
+                        683,
+                        180,
+                        808,
+                        217
+                    ],
+                    "text": "C\u00e2n N\u1eb7ng"
+                }
+            ],
+            "linking": [],
+            "id": 4
+        },
+        {
+            "box": [
+                812,
+                180,
+                881,
+                218
+            ],
+            "text": "........",
+            "label": "patient_weight_value",
+            "words": [
+                {
+                    "box": [
+                        812,
+                        180,
+                        881,
+                        218
+                    ],
+                    "text": "........"
+                }
+            ],
+            "linking": [
+                [
+                    4,
+                    5
+                ]
+            ],
+            "id": 5
+        },
+        {
+            "box": [
+                886,
+                180,
+                992,
+                219
+            ],
+            "text": "Nam/N\u1eef",
+            "label": "patient_gender_key",
+            "words": [
+                {
+                    "box": [
+                        886,
+                        180,
+                        992,
+                        219
+                    ],
+                    "text": "Nam/N\u1eef"
+                }
+            ],
+            "linking": [
+                [
+                    6,
+                    7
+                ]
+            ],
+            "id": 6
+        },
+        {
+            "box": [
+                997,
+                180,
+                1076,
+                219
+            ],
+            "text": "N\u1eef",
+            "label": "patient_gender_value",
+            "words": [
+                {
+                    "box": [
+                        997,
+                        180,
+                        1076,
+                        219
+                    ],
+                    "text": "N\u1eef"
+                }
+            ],
+            "linking": [
+                [
+                    6,
+                    7
+                ]
+            ],
+            "id": 7
+        },
+        {
+            "box": [
+                55,
+                230,
+                197,
+                267
+            ],
+            "text": "Ch\u1ea9n \u0111o\u00e1n",
+            "label": "diagnosis_key",
+            "words": [
+                {
+                    "box": [
+                        55,
+                        230,
+                        197,
+                        267
+                    ],
+                    "text": "Ch\u1ea9n \u0111o\u00e1n"
+                }
+            ],
+            "linking": [],
+            "id": 8
+        },
+        {
+            "box": [
+                67,
+                880,
+                228,
+                912
+            ],
+            "text": "Kh\u00e1m l\u1ea1i ng\u00e0y",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        67,
+                        880,
+                        228,
+                        912
+                    ],
+                    "text": "Kh\u00e1m l\u1ea1i ng\u00e0y"
+                }
+            ],
+            "linking": [],
+            "id": 46
+        },
+        {
+            "box": [
+                57,
+                917,
+                142,
+                948
+            ],
+            "text": "L\u1eddi d\u1eb7n:",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        57,
+                        917,
+                        142,
+                        948
+                    ],
+                    "text": "L\u1eddi d\u1eb7n:"
+                }
+            ],
+            "linking": [],
+            "id": 47
+        },
+        {
+            "box": [
+                676,
+                876,
+                1040,
+                916
+            ],
+            "text": "Ng\u00e0y 19 Th\u00e1ng 06 N\u0103m 2020",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        676,
+                        876,
+                        1040,
+                        916
+                    ],
+                    "text": "Ng\u00e0y 19 Th\u00e1ng 06 N\u0103m 2020"
+                }
+            ],
+            "linking": [],
+            "id": 48
+        },
+        {
+            "box": [
+                692,
+                926,
+                1021,
+                966
+            ],
+            "text": "B\u00e1c s\u1ef9/Y s\u1ef9 kh\u00e1m b\u1ec7nh",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        692,
+                        926,
+                        1021,
+                        966
+                    ],
+                    "text": "B\u00e1c s\u1ef9/Y s\u1ef9 kh\u00e1m b\u1ec7nh"
+                }
+            ],
+            "linking": [],
+            "id": 49
+        },
+        {
+            "box": [
+                740,
+                971,
+                975,
+                1009
+            ],
+            "text": "(K\u00fd, ghi r\u00f5 h\u1ecd t\u00ean)",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        740,
+                        971,
+                        975,
+                        1009
+                    ],
+                    "text": "(K\u00fd, ghi r\u00f5 h\u1ecd t\u00ean)"
+                }
+            ],
+            "linking": [],
+            "id": 50
+        },
+        {
+            "box": [
+                54,
+                1126,
+                412,
+                1159
+            ],
+            "text": "- Kh\u00e1m l\u1ea1i xin mang theo \u0111\u01a1n n\u00e0y",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        54,
+                        1126,
+                        412,
+                        1159
+                    ],
+                    "text": "- Kh\u00e1m l\u1ea1i xin mang theo \u0111\u01a1n n\u00e0y"
+                }
+            ],
+            "linking": [],
+            "id": 51
+        },
+        {
+            "box": [
+                55,
+                1191,
+                812,
+                1225
+            ],
+            "text": "- T\u00ean b\u1ed1 ho\u1eb7c m\u1eb9 c\u1ee7a tr\u1ebb ho\u1eb7c ng\u01b0\u1eddi \u0111\u01b0a tr\u1ebb \u0111\u1ebfn kh\u00e1m b\u1ec7nh, ch\u1eefa b\u1ec7nh:",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        55,
+                        1191,
+                        812,
+                        1225
+                    ],
+                    "text": "- T\u00ean b\u1ed1 ho\u1eb7c m\u1eb9 c\u1ee7a tr\u1ebb ho\u1eb7c ng\u01b0\u1eddi \u0111\u01b0a tr\u1ebb \u0111\u1ebfn kh\u00e1m b\u1ec7nh, ch\u1eefa b\u1ec7nh:"
+                }
+            ],
+            "linking": [],
+            "id": 52
+        },
+        {
+            "box": [
+                62,
+                327,
+                128,
+                358
+            ],
+            "text": "STT",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        62,
+                        327,
+                        128,
+                        358
+                    ],
+                    "text": "STT"
+                }
+            ],
+            "linking": [],
+            "id": 20
+        },
+        {
+            "box": [
+                523,
+                325,
+                712,
+                359
+            ],
+            "text": "Thu\u1ed1c \u0111i\u1ec1u tr\u1ecb",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        523,
+                        325,
+                        712,
+                        359
+                    ],
+                    "text": "Thu\u1ed1c \u0111i\u1ec1u tr\u1ecb"
+                }
+            ],
+            "linking": [],
+            "id": 21
+        },
+        {
+            "box": [
+                894,
+                370,
+                937,
+                399
+            ],
+            "text": "20",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        894,
+                        370,
+                        937,
+                        399
+                    ],
+                    "text": "20"
+                }
+            ],
+            "linking": [],
+            "id": 22
+        },
+        {
+            "box": [
+                1003,
+                369,
+                1071,
+                400
+            ],
+            "text": "Vi\u00ean",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        1003,
+                        369,
+                        1071,
+                        400
+                    ],
+                    "text": "Vi\u00ean"
+                }
+            ],
+            "linking": [],
+            "id": 23
+        },
+        {
+            "box": [
+                83,
+                393,
+                104,
+                418
+            ],
+            "text": "1",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        83,
+                        393,
+                        104,
+                        418
+                    ],
+                    "text": "1"
+                }
+            ],
+            "linking": [],
+            "id": 24
+        },
+        {
+            "box": [
+                129,
+                409,
+                483,
+                443
+            ],
+            "text": "S\u00e1ng : 1 Vi\u00ean, Chi\u1ec1u : 1 Vi\u00ean",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        129,
+                        409,
+                        483,
+                        443
+                    ],
+                    "text": "S\u00e1ng : 1 Vi\u00ean, Chi\u1ec1u : 1 Vi\u00ean"
+                }
+            ],
+            "linking": [],
+            "id": 25
+        },
+        {
+            "box": [
+                892,
+                450,
+                937,
+                485
+            ],
+            "text": "10",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        892,
+                        450,
+                        937,
+                        485
+                    ],
+                    "text": "10"
+                }
+            ],
+            "linking": [],
+            "id": 26
+        },
+        {
+            "box": [
+                1001,
+                448,
+                1072,
+                486
+            ],
+            "text": "Vi\u00ean",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        1001,
+                        448,
+                        1072,
+                        486
+                    ],
+                    "text": "Vi\u00ean"
+                }
+            ],
+            "linking": [],
+            "id": 27
+        },
+        {
+            "box": [
+                81,
+                474,
+                104,
+                504
+            ],
+            "text": "2",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        81,
+                        474,
+                        104,
+                        504
+                    ],
+                    "text": "2"
+                }
+            ],
+            "linking": [],
+            "id": 28
+        },
+        {
+            "box": [
+                127,
+                493,
+                298,
+                528
+            ],
+            "text": "S\u00e1ng : 1 Vi\u00ean",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        127,
+                        493,
+                        298,
+                        528
+                    ],
+                    "text": "S\u00e1ng : 1 Vi\u00ean"
+                }
+            ],
+            "linking": [],
+            "id": 29
+        },
+        {
+            "box": [
+                892,
+                535,
+                937,
+                569
+            ],
+            "text": "30",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        892,
+                        535,
+                        937,
+                        569
+                    ],
+                    "text": "30"
+                }
+            ],
+            "linking": [],
+            "id": 30
+        },
+        {
+            "box": [
+                1001,
+                533,
+                1072,
+                571
+            ],
+            "text": "Vi\u00ean",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        1001,
+                        533,
+                        1072,
+                        571
+                    ],
+                    "text": "Vi\u00ean"
+                }
+            ],
+            "linking": [],
+            "id": 31
+        },
+        {
+            "box": [
+                81,
+                559,
+                104,
+                586
+            ],
+            "text": "3",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        81,
+                        559,
+                        104,
+                        586
+                    ],
+                    "text": "3"
+                }
+            ],
+            "linking": [],
+            "id": 32
+        },
+        {
+            "box": [
+                131,
+                579,
+                299,
+                609
+            ],
+            "text": "S\u00e1ng : 1 Vi\u00ean",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        131,
+                        579,
+                        299,
+                        609
+                    ],
+                    "text": "S\u00e1ng : 1 Vi\u00ean"
+                }
+            ],
+            "linking": [],
+            "id": 33
+        },
+        {
+            "box": [
+                890,
+                621,
+                937,
+                655
+            ],
+            "text": "30",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        890,
+                        621,
+                        937,
+                        655
+                    ],
+                    "text": "30"
+                }
+            ],
+            "linking": [],
+            "id": 34
+        },
+        {
+            "box": [
+                1003,
+                617,
+                1071,
+                653
+            ],
+            "text": "Vi\u00ean",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        1003,
+                        617,
+                        1071,
+                        653
+                    ],
+                    "text": "Vi\u00ean"
+                }
+            ],
+            "linking": [],
+            "id": 35
+        },
+        {
+            "box": [
+                83,
+                645,
+                104,
+                671
+            ],
+            "text": "4",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        83,
+                        645,
+                        104,
+                        671
+                    ],
+                    "text": "4"
+                }
+            ],
+            "linking": [],
+            "id": 36
+        },
+        {
+            "box": [
+                128,
+                662,
+                302,
+                694
+            ],
+            "text": "S\u00e1ng : 1 Vi\u00ean",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        128,
+                        662,
+                        302,
+                        694
+                    ],
+                    "text": "S\u00e1ng : 1 Vi\u00ean"
+                }
+            ],
+            "linking": [],
+            "id": 37
+        },
+        {
+            "box": [
+                892,
+                704,
+                939,
+                739
+            ],
+            "text": "30",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        892,
+                        704,
+                        939,
+                        739
+                    ],
+                    "text": "30"
+                }
+            ],
+            "linking": [],
+            "id": 38
+        },
+        {
+            "box": [
+                1006,
+                706,
+                1068,
+                738
+            ],
+            "text": "Vi\u00ean",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        1006,
+                        706,
+                        1068,
+                        738
+                    ],
+                    "text": "Vi\u00ean"
+                }
+            ],
+            "linking": [],
+            "id": 39
+        },
+        {
+            "box": [
+                83,
+                725,
+                106,
+                753
+            ],
+            "text": "5",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        83,
+                        725,
+                        106,
+                        753
+                    ],
+                    "text": "5"
+                }
+            ],
+            "linking": [],
+            "id": 40
+        },
+        {
+            "box": [
+                131,
+                750,
+                307,
+                778
+            ],
+            "text": "Chi\u1ec1u : 1 Vi\u00ean",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        131,
+                        750,
+                        307,
+                        778
+                    ],
+                    "text": "Chi\u1ec1u : 1 Vi\u00ean"
+                }
+            ],
+            "linking": [],
+            "id": 41
+        },
+        {
+            "box": [
+                893,
+                786,
+                940,
+                822
+            ],
+            "text": "30",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        893,
+                        786,
+                        940,
+                        822
+                    ],
+                    "text": "30"
+                }
+            ],
+            "linking": [],
+            "id": 42
+        },
+        {
+            "box": [
+                1005,
+                788,
+                1072,
+                820
+            ],
+            "text": "Vi\u00ean",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        1005,
+                        788,
+                        1072,
+                        820
+                    ],
+                    "text": "Vi\u00ean"
+                }
+            ],
+            "linking": [],
+            "id": 43
+        },
+        {
+            "box": [
+                81,
+                810,
+                109,
+                842
+            ],
+            "text": "6",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        81,
+                        810,
+                        109,
+                        842
+                    ],
+                    "text": "6"
+                }
+            ],
+            "linking": [],
+            "id": 44
+        },
+        {
+            "box": [
+                130,
+                831,
+                299,
+                862
+            ],
+            "text": "S\u00e1ng : 1 Vi\u00ean",
+            "label": "others",
+            "words": [
+                {
+                    "box": [
+                        130,
+                        831,
+                        299,
+                        862
+                    ],
+                    "text": "S\u00e1ng : 1 Vi\u00ean"
+                }
+            ],
+            "linking": [],
+            "id": 45
+        }
+    ]
+}
